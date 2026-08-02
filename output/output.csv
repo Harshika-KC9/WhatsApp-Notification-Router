@@ -1,0 +1,111 @@
+message_id,action,message_type,reason,confidence,evidence_message_ids
+msg_023,notify,payment,Potentially important message,0.75,none
+msg_091,notify,urgent,Potentially important message,0.75,none
+msg_090,digest,greeting,Useful but not immediately important,0.75,none
+msg_048,notify,greeting,Potentially important message,0.75,none
+msg_040,digest,greeting,Useful but not immediately important,0.75,none
+msg_075,digest,unknown,Useful but not immediately important,0.75,none
+msg_005,notify,urgent,Potentially important message,0.75,none
+msg_104,digest,greeting,Useful but not immediately important,0.75,none
+msg_069,digest,greeting,Useful but not immediately important,0.75,none
+msg_107,mute,scam,Likely spam or risky,0.75,none
+msg_070,mute,scam,Likely spam or risky,0.75,none
+msg_003,notify,greeting,Potentially important message,0.75,none
+msg_099,digest,greeting,Useful but not immediately important,0.75,none
+msg_008,notify,urgent,Potentially important message,0.75,none
+msg_092,notify,payment,Potentially important message,0.75,none
+msg_060,notify,payment,Potentially important message,0.75,none
+msg_004,mute,scam,Likely spam or risky,0.75,none
+msg_030,digest,greeting,Useful but not immediately important,0.75,none
+msg_045,digest,greeting,Useful but not immediately important,0.75,none
+msg_052,notify,urgent,Potentially important message,0.75,none
+msg_009,digest,greeting,Useful but not immediately important,0.75,none
+msg_071,digest,greeting,Useful but not immediately important,0.75,none
+msg_016,notify,urgent,Potentially important message,0.75,none
+msg_065,digest,promotion,Useful but not immediately important,0.75,none
+msg_038,notify,urgent,Potentially important message,0.75,none
+msg_086,digest,unknown,Useful but not immediately important,0.75,none
+msg_014,notify,urgent,Potentially important message,0.75,none
+msg_094,notify,promotion,Potentially important message,0.75,none
+msg_029,digest,greeting,Useful but not immediately important,0.75,none
+msg_105,notify,greeting,Potentially important message,0.75,none
+msg_002,digest,unknown,Useful but not immediately important,0.75,none
+msg_010,digest,unknown,Useful but not immediately important,0.75,none
+msg_078,notify,greeting,Potentially important message,0.75,none
+msg_013,notify,payment,Potentially important message,0.75,none
+msg_018,mute,scam,Likely spam or risky,0.75,none
+msg_044,mute,scam,Likely spam or risky,0.75,none
+msg_032,digest,unknown,Useful but not immediately important,0.75,none
+msg_106,notify,urgent,Potentially important message,0.75,none
+msg_006,notify,urgent,Potentially important message,0.75,none
+msg_109,notify,greeting,Potentially important message,0.75,none
+msg_108,notify,greeting,Potentially important message,0.75,none
+msg_019,notify,greeting,Potentially important message,0.75,none
+msg_088,digest,unknown,Useful but not immediately important,0.75,none
+msg_056,notify,urgent,Potentially important message,0.75,none
+msg_027,digest,greeting,Useful but not immediately important,0.75,none
+msg_050,mute,scam,Likely spam or risky,0.75,none
+msg_083,digest,unknown,Useful but not immediately important,0.75,none
+msg_063,notify,urgent,Potentially important message,0.75,none
+msg_033,notify,promotion,Potentially important message,0.75,none
+msg_061,digest,greeting,Useful but not immediately important,0.75,none
+msg_020,notify,urgent,Potentially important message,0.75,none
+msg_017,notify,urgent,Potentially important message,0.75,none
+msg_058,digest,greeting,Useful but not immediately important,0.75,none
+msg_026,digest,unknown,Useful but not immediately important,0.75,none
+msg_047,notify,urgent,Potentially important message,0.75,none
+msg_046,mute,scam,Likely spam or risky,0.75,none
+msg_042,notify,urgent,Potentially important message,0.75,none
+msg_079,mute,scam,Likely spam or risky,0.75,none
+msg_098,notify,urgent,Potentially important message,0.75,none
+msg_037,digest,greeting,Useful but not immediately important,0.75,none
+msg_007,digest,greeting,Useful but not immediately important,0.75,none
+msg_085,digest,unknown,Useful but not immediately important,0.75,none
+msg_001,notify,greeting,Potentially important message,0.75,none
+msg_021,notify,payment,Potentially important message,0.75,none
+msg_028,digest,promotion,Useful but not immediately important,0.75,none
+msg_012,digest,greeting,Useful but not immediately important,0.75,none
+msg_064,digest,unknown,Useful but not immediately important,0.75,none
+msg_103,digest,greeting,Useful but not immediately important,0.75,none
+msg_031,digest,unknown,Useful but not immediately important,0.75,none
+msg_057,digest,unknown,Useful but not immediately important,0.75,none
+msg_087,digest,unknown,Useful but not immediately important,0.75,none
+msg_067,notify,payment,Potentially important message,0.75,none
+msg_039,notify,payment,Potentially important message,0.75,none
+msg_082,digest,unknown,Useful but not immediately important,0.75,none
+msg_066,notify,payment,Potentially important message,0.75,none
+msg_049,notify,urgent,Potentially important message,0.75,none
+msg_015,mute,scam,Likely spam or risky,0.75,none
+msg_051,notify,payment,Potentially important message,0.75,none
+msg_097,notify,greeting,Potentially important message,0.75,none
+msg_089,notify,greeting,Potentially important message,0.75,none
+msg_053,notify,payment,Potentially important message,0.75,none
+msg_059,mute,scam,Likely spam or risky,0.75,none
+msg_024,notify,payment,Potentially important message,0.75,none
+msg_072,mute,scam,Likely spam or risky,0.75,none
+msg_036,digest,unknown,Useful but not immediately important,0.75,none
+msg_076,notify,urgent,Potentially important message,0.75,none
+msg_055,notify,greeting,Potentially important message,0.75,none
+msg_102,digest,greeting,Useful but not immediately important,0.75,none
+msg_080,digest,greeting,Useful but not immediately important,0.75,none
+msg_093,mute,scam,Likely spam or risky,0.75,none
+msg_034,notify,promotion,Potentially important message,0.75,none
+msg_035,digest,unknown,Useful but not immediately important,0.75,none
+msg_101,digest,unknown,Useful but not immediately important,0.75,none
+msg_041,notify,greeting,Potentially important message,0.75,none
+msg_011,notify,greeting,Potentially important message,0.75,none
+msg_110,notify,urgent,Potentially important message,0.75,none
+msg_095,notify,payment,Potentially important message,0.75,none
+msg_074,notify,payment,Potentially important message,0.75,none
+msg_073,notify,payment,Potentially important message,0.75,none
+msg_054,notify,greeting,Potentially important message,0.75,none
+msg_068,digest,greeting,Useful but not immediately important,0.75,none
+msg_100,notify,payment,Potentially important message,0.75,none
+msg_062,digest,unknown,Useful but not immediately important,0.75,none
+msg_096,digest,unknown,Useful but not immediately important,0.75,none
+msg_043,notify,urgent,Potentially important message,0.75,none
+msg_077,digest,greeting,Useful but not immediately important,0.75,none
+msg_081,digest,unknown,Useful but not immediately important,0.75,none
+msg_025,notify,greeting,Potentially important message,0.75,none
+msg_084,digest,unknown,Useful but not immediately important,0.75,none
+msg_022,notify,payment,Potentially important message,0.75,none
