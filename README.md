@@ -1,2 +1,2 @@
 # WhatsApp-Notification-Router
-I'm building a solution for the problem statement as part of Hacker Rank Orchestrate.
+APAE (Adaptive Personal Attention Engine) is a multimodal AI system that dynamically allocates user attention by modeling semantic urgency, interpersonal relevance, contextual interruption cost, historical behavior, and sender trust.
